@@ -4,7 +4,7 @@
 
 ## Aim of this project 📍
 
-This project is a tictactoe in cmd (without graphic part).
+This project is a tictactoe in command prompt (without graphic part).
 
 ## Technologies use ⚙️
 
