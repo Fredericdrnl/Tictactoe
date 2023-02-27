@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Frédéric DOURNEL, Clément DUVIEUBOURG, TP-B
+// Frédéric DOURNEL TP-B
 
 // ################################################### //
 // ################### TICTACTOE ##################### //
